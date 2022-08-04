@@ -22,7 +22,7 @@ Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e m
 
 ### IDE:
 
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
 ### DevOps:
 
@@ -32,7 +32,7 @@ Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)
 
-### 🌎 Contatos:
+###🌎 Contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcelolimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-lima-181a62232/)](https://www.linkedin.com/in/marcelo-lima-181a62232/)
 [![Gmail Badge](https://img.shields.io/badge/-marcelolima557@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolima557@gmail.com)](mailto:marcelolima557@gmail.com)
