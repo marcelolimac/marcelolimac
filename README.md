@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-Sou Desenvolvedor Fullstack 😄
+Sou Desenvolvedor Full Stack 😄
 
 Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
