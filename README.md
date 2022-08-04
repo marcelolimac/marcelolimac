@@ -34,5 +34,5 @@ Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e m
 
 ### 🌎 Contatos:
 
-[![Linkedin Badge](https://img.shields.io/badge/-marcelolimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-lima-181a62232/)](https://www.linkedin.com/in/marcelo-lima-181a62232/)
+[![Linkedin Badge](https://img.shields.io/badge/-marcelolimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelolimac)](https://www.linkedin.com/in/marcelolimac)
 [![Gmail Badge](https://img.shields.io/badge/-marcelolima557@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolima557@gmail.com)](mailto:marcelolima557@gmail.com)
