@@ -1,20 +1,20 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarceloLimaCodes)](https://github.com/MarceloLimaCodes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-lima-181a62232/)](https://www.linkedin.com/in/marcelo-lima-181a62232/)
 
-## About me:
 
-I'm a Fullstack Developer :smile:
+## Sobre mim:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+Sou Desenvolvedor Fullstack 😄
 
-## My specialties:
+Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
-### Languages:
+## Minhas Especialidades:
+
+### Linguagens:
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### Frameworks, Library, Technology:
+### Frameworks, Bibliotecas e Tecnologias:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=purple"/> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  
@@ -30,8 +30,12 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
 
-## What I don't know, give me a few days 😁
-
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MarceloLimaCodes)
+
+🌎 Contatos:
+
+[![Linkedin Badge](https://img.shields.io/badge/-marcelolimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-lima-181a62232/)](https://www.linkedin.com/in/marcelo-lima-181a62232/)
+[![Gmail Badge](https://img.shields.io/badge/-marcelolima557@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolima557@gmail.com)](mailto:marcelolima557@gmail.com)
+
