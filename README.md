@@ -32,6 +32,6 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ## What I don't know, give me a few days 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)])
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MarceloLimaCodes)
