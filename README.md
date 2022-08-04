@@ -30,9 +30,9 @@ Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e m
 
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)
+![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MarceloLimaCodes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MarceloLimaCodes)
 
 ### 🌎 Contatos:
 
