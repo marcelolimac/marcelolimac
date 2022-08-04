@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=MarceloLimaCodes&color=006bed)
+
 ## Sobre mim:
 
 Sou Desenvolvedor Full Stack 😄
