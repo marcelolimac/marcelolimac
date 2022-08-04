@@ -32,7 +32,7 @@ Adoro codar e criar coisas novas, gosto muito de descobrir novas tecnologias e m
 
 ![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MarceloLimaCodes&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MarceloLimaCodes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaCodes&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)
 
 ### 🌎 Contatos:
 
