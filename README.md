@@ -4,7 +4,7 @@
 
 I’m a Mobile and Web Developer with expertise in React Native, React.js, and TypeScript. I enjoy building innovative and efficient solutions that provide seamless user experiences. I have experience in developing both front-end and back-end systems, working with real-time databases, and deploying apps across platforms. I'm always eager to learn new technologies and contribute to meaningful projects. Let's build something awesome together!
 
-### Skills:
+### Skills
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=blue"/> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -12,7 +12,7 @@ I’m a Mobile and Web Developer with expertise in React Native, React.js, and T
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
 
-### 🌎 Contatos:
+### 🌎 Contacts
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcelolimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelolimac)](https://www.linkedin.com/in/marcelolimac)
 [![Gmail Badge](https://img.shields.io/badge/-marcelolima557@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolima557@gmail.com)](mailto:marcelolima557@gmail.com)
